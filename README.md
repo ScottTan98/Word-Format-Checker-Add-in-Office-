@@ -10,7 +10,7 @@ A simple Microsoft Word Add-in that checks text formatting (bold, underline, and
 ## Installation  
 1. Clone the repository:  
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/ScottTan98/Word-Format-Checker-Add-in-Office-.git
    cd word_format_checker
    ```
 2. Install dependencies:  
